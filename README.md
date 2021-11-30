@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virajpawar
 - 👀 I’m interested in Software Development and Web development.
 - 🌱 I’m currently learning Dynamic progrraming and Compitative Programming.
-- 💞️ I’m looking to collaborate on tech jaints who belives on me and give apportunity to me.
+- 💞️ I’m looking to collaborate on tech jaints who belives on me and give an apportunity to me.
 - 📫 How to reach me @ Email- virajpawar9394@gmail.com
 
 <!---
